@@ -2,3 +2,6 @@ hi
 hello
 whats
 up?
+how
+are
+you?
